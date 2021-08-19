@@ -10,6 +10,7 @@ namespace bai2chuong1
     {
         static void Main(string[] args)
         {
+            //12
         }
     }
 }
